@@ -6,28 +6,14 @@ A curated list of job opportunities in tech companies and other major employers 
 
 - [Introduction](#introduction)
 - [Tech Job Opportunities](#tech-job-opportunities)
-  - [Software Development](#software-development)
-  - [Data Science](#data-science)
-  - [Cybersecurity](#cybersecurity)
-  - [IT Support](#it-support)
 - [Engineering Job Opportunities](#engineering-job-opportunities)
-  - [Electrical Engineering](#electrical-engineering)
-  - [Mechanical Engineering](#mechanical-engineering)
-  - [Aerospace Engineering](#aerospace-engineering)
-  - [Biomedical Engineering](#biomedical-engineering)
 - [Healthcare Job Opportunities](#healthcare-job-opportunities)
-  - [Nursing](#nursing)
-  - [Medical Technicians](#medical-technicians)
-  - [Healthcare Administration](#healthcare-administration)
 - [Major Employers](#major-employers)
-  - [Eli Lilly](#eli-lilly)
-  - [Salesforce](#salesforce)
-  - [Cummins](#cummins)
-  - [Other Major Companies](#other-major-companies)
 - [Internships and Entry-Level Positions](#internships-and-entry-level-positions)
 - [Coworking Spaces](#coworking-spaces) 
 - [Work-Study Programs](#work-study-programs)
 - [Job Aggregators](#job-aggregators)
+- [Networking Events and Organizations](#networking-events-and-organizations)
 - [Additional Resources](#additional-resources)
 - [Jobs Potentially Impacted by AI](#jobs-potentially-impacted-by-ai)
 - [Contributing](#contributing)
@@ -43,25 +29,25 @@ Whether you're a skilled developer, an aspiring healthcare professional, or expl
 
 ### Software Development
 
-* **[Salesforce](https://www.salesforce.com/careers/)**: (Check their "Early Careers" or "New Grad" sections)
-* **[Infosys](https://www.infosys.com/careers.html)**: (Search for Indianapolis locations)
-* **[OneAmerica](https://careers.oneamerica.com/)**: (Look for Software Engineer, Developer roles)
-* **[KSM Consulting](https://www.ksmconsulting.com/careers/)**: (Focus on technology consulting roles)
+* **[Salesforce](https://www.salesforce.com/careers/)**: Check their "Early Careers" or "New Grad" sections.
+* **[Infosys](https://www.infosys.com/careers.html)**: Search for Indianapolis locations.
+* **[OneAmerica](https://careers.oneamerica.com/)**: Look for Software Engineer, Developer roles.
+* **[KSM Consulting](https://www.ksmconsulting.com/careers/)**: Focus on technology consulting roles.
 
 ### Data Science
 
-* **[Eli Lilly](https://lilly.com/careers)**: (Search for "Data Science" or related titles)
-* **[Anthem](https://www.anthemcareers.com/)**: (Explore roles in data analytics and healthcare data)
+* **[Eli Lilly](https://lilly.com/careers)**: Search for "Data Science" or related titles.
+* **[Anthem](https://www.anthemcareers.com/)**: Explore roles in data analytics and healthcare data.
 
 ### Cybersecurity
 
-* **[Defense Finance and Accounting Service (DFAS)](https://www.dfas.mil/careers/)**: (Search for Cybersecurity roles in Indianapolis)
-* **[NGINX](https://www.nginx.com/careers/)**: (Check for Security Engineer or related positions)
+* **[Defense Finance and Accounting Service (DFAS)](https://www.dfas.mil/careers/)**: Search for Cybersecurity roles in Indianapolis.
+* **[NGINX](https://www.nginx.com/careers/)**: Check for Security Engineer or related positions.
 
 ### IT Support
 
-* **[Roche](https://www.roche.com/careers.htm)**: (Search for IT Support roles in Indianapolis)
-* **[Indiana University Health](https://iuhealth.org/careers/)**: (Explore IT positions within a healthcare setting)
+* **[Roche](https://www.roche.com/careers.htm)**: Search for IT Support roles in Indianapolis.
+* **[Indiana University Health](https://iuhealth.org/careers/)**: Explore IT positions within a healthcare setting.
 
 ## Engineering Job Opportunities
 
@@ -87,24 +73,24 @@ Whether you're a skilled developer, an aspiring healthcare professional, or expl
 ### Biomedical Engineering
 
 * **[Biomedical Engineer Jobs on LinkedIn](https://www.linkedin.com/jobs/biomedical-engineer-jobs-indianapolis-in)**: Search for biomedical engineering positions in Indianapolis.
-* **[Cook Medical](https://www.cookmedical.com/careers/)**: (A global medical device company with a strong presence in Indiana)
-* **[Zimmer Biomet](https://www.zimmerbiomet.com/careers.html)**: (Focus on musculoskeletal healthcare)
+* **[Cook Medical](https://www.cookmedical.com/careers/)**: A global medical device company with a strong presence in Indiana.
+* **[Zimmer Biomet](https://www.zimmerbiomet.com/careers.html)**: Focus on musculoskeletal healthcare.
 
 ## Healthcare Job Opportunities
 
 ### Nursing
 
-* **[Indiana University Health](https://iuhealth.org/careers/)**: (Largest healthcare system in Indiana)
-* **[Community Health Network](https://careers.ecommunity.com/)**: (Offers a variety of nursing roles)
-* **[Eskenazi Health](https://www.eskenazihealth.edu/careers)**: (Nettleton Spine & Joint Center is one location)
+* **[Indiana University Health](https://iuhealth.org/careers/)**: Largest healthcare system in Indiana.
+* **[Community Health Network](https://careers.ecommunity.com/)**: Offers a variety of nursing roles.
+* **[Eskenazi Health](https://www.eskenazihealth.edu/careers)**: Nettleton Spine & Joint Center is one location.
 
 ### Medical Technicians
 
-* **[Ascension St. Vincent](https://ascension.org/careers/)**: (Search for Medical Technician roles)
+* **[Ascension St. Vincent](https://ascension.org/careers/)**: Search for Medical Technician roles.
 
 ### Healthcare Administration
 
-* **[Indiana University Health](https://iuhealth.org/careers/)**: (Explore administrative and management roles)
+* **[Indiana University Health](https://iuhealth.org/careers/)**: Explore administrative and management roles.
 
 ## Major Employers
 
@@ -132,43 +118,87 @@ Whether you're a skilled developer, an aspiring healthcare professional, or expl
 
 ## Coworking Spaces
 
-* **[The Amp](https://www.theampindy.com/)**: (Downtown Indianapolis, focus on marketing and creative industries)
-* **[Launch Fishers](https://www.launchfishers.com/)**: (Fishers, IN, strong tech and entrepreneurial community)
-* **[Industrious Mass Ave](https://www.industriousoffice.com/locations/indianapolis)**: (Downtown Indianapolis, upscale co-working environment) 
-* **[The Speak Easy](https://www.speakeasyindy.com/)**: (Broad Ripple and Downtown Indianapolis locations, collaborative workspace)
-* **[Regus](https://www.regus.com/)**: (Multiple locations across Indianapolis, offers a range of workspace solutions) 
+* **[The Amp](https://www.theampindy.com/)**: Downtown Indianapolis, focus on marketing and creative industries.
+* **[Launch Fishers](https://www.launchfishers.com/)**: Fishers, IN, strong tech and entrepreneurial community.
+* **[Industrious Mass Ave](https://www.industriousoffice.com/locations/indianapolis)**: Downtown Indianapolis, upscale co-working environment. 
+* **[The Speak Easy](https://www.speakeasyindy.com/)**: Broad Ripple and Downtown Indianapolis locations, collaborative workspace.
+* **[Regus](https://www.regus.com/)**: Multiple locations across Indianapolis, offers a range of workspace solutions. 
 
 ## Work-Study Programs
 
-* **[Butler University](https://www.butler.edu/financial-aid/types-of-aid/work-study)**: (Link to Butler's work-study program page)
-* **[Purdue University](https://www.purdue.edu/dfa/types-of-aid/work-study.html)**: (Link to Purdue's work-study program page)
-* **[Ball State University](https://www.bsu.edu/financialaid/types-of-aid/work-study)**: (Link to Ball State's work-study program page)
-* **[Marian University](https://www.marian.edu/admissions-aid/financial-aid/types-of-aid/work-study)**: (Link to Marian University's work-study program page)
-* **[University of Indianapolis](https://uindy.edu/financial-aid/types/work-study)**: (Link to UIndy's work-study program page)
-* **[IUPUI](https://registrar.iupui.edu/financial-aid/types/need-based/fws.html)**: (Link to IUPUI's work-study program page)
+* **[Butler University](https://www.butler.edu/financial-aid/types-of-aid/work-study)**: Work-study program details.
+* **[Purdue University](https://www.purdue.edu/dfa/types-of-aid/work-study.html)**: Information on Purdue's work-study program.
+* **[Ball State University](https://www.bsu.edu/financialaid/types-of-aid/work-study)**: Overview of Ball State's work-study options.
+* **[Marian University](https://www.marian.edu/admissions-aid/financial-aid/types-of-aid/work-study)**: Marian's work-study program details.
+* **[University of Indianapolis](https://uindy.edu/financial-aid/types/work-study)**: UIndy's work-study program information.
+* **[IUPUI](https://registrar.iupui.edu/financial-aid/types/need-based/fws.html)**: IUPUI's work-study program details.
 
 ## Job Aggregators
 
-* **[Handshake](https://joinhandshake.com/)**: A career platform for college students to find internships and jobs.
-* **[LinkedIn](https://www.linkedin.com/jobs/)**: A professional networking site that also lists job opportunities.
-* **[Indeed](https://www.indeed.com/)**: A job search engine that aggregates listings from various sources.
-* **[SimplyHired](https://www.simplyhired.com/)**: Another job search engine that provides a wide range of job listings.
-* **[Glassdoor](https://www.glassdoor.com/Job/index.htm)**: Offers job listings along with company reviews and salary information.
+* **[Handshake](https://joinhandshake.com/)**: A platform for college students to find internships and jobs.
+* **[LinkedIn](https://www.linkedin.com/jobs/)**: A professional networking site with job listings.
+* **[Indeed](https://www.indeed.com/)**: A job search engine aggregating listings from various sources.
+* **[SimplyHired](https://www.simplyhired.com/)**: Another job search engine with a wide range of listings.
+* **[Glassdoor](https://www.glassdoor.com/Job/index.htm)**: Job listings along with company reviews and salary information.
+
+## Networking Events and Organizations
+
+Here are several networking resources and events in Indianapolis that can help you connect with professionals and expand your network. These links include various organizations, events, and platforms where you can meet people in your field and beyond.
+
+1. **[Howl at the Moon - Corporate Networking Events](https://www.howlatthemoon.com/indianapolis-networking-events/)**: A fun venue for networking events where you can meet top professionals in a lively atmosphere.
+
+2. **[TechPoint - Tech Events](https://techpoint.org/tech-events/)**: This site lists various tech-related networking events, including upcoming meetups and conferences in the Indianapolis area.
+
+3. **[All Events - Business & Networking Events](https://allevents.in/indianapolis/business)**: A comprehensive list of business venues and networking events happening in Indianapolis.
+
+4. **[Indy Marketers - Events](https://www.indymarketers.com/events)**: Focused on marketing professionals, this site lists events that include networking opportunities and discussions on industry trends.
+
+5. **[H7 Network - Indianapolis](https://www.h7network.com/visit/indianapolis)**: A networking group that hosts in-person meetings and events to help professionals connect and grow their businesses.
+
+6. **[Circle City Connect](https://www.indyfluence.com/blog/10-networking-opportunities-for-young-professionals-in-indianapolis/)**: A networking organization dedicated to personal and professional growth through social events and community service.
+
+7. **[NOWIB - Network of Women in Business](https://www.nowib.com/)**: This organization focuses on empowering women in business through networking events and professional development opportunities.
+
+8. **[Indy Black Professionals](https://lifeinindy.com/professional-networks-and-connections/)**: A networking group that supports Black professionals in Indianapolis, offering events that promote collaboration and community engagement.
+
+9. **[Eventbrite - Networking Events in Indianapolis](https://www.eventbrite.com/d/in--indianapolis/networking-events/)**: A platform where you can find various networking events, workshops, and seminars happening in the city.
+
+10. **[Prime Connects - Indianapolis Professional Networking Group](https://www.primeconnectsindy.com/)**: A group focused on creating valuable connections for entrepreneurs and professionals, with events that foster collaboration and community support.
+
+### Additional Networking Tips
+- **Attend Local Meetups**: Websites like Meetup.com often have groups focused on specific industries or interests.
+- **Join Professional Associations**: Many fields have professional organizations that host networking events and provide resources for members.
+- **Utilize Social Media**: Platforms like LinkedIn are great for connecting with professionals in your area. Join local groups and participate in discussions.
+- **Volunteer**: Engaging in community service can help you meet like-minded individuals and expand your network.
+
+### Visuals from Networking Events
+Here are some images that represent networking events in Indianapolis:
+
+![Networking Event](https://cdn-az.allevents.in/events5/banners/6a77a917836ae3619e33b4f4804bc5b20731f0aae60ec735fc2c2868381a052d-rimg-w1200-h600-gmir.jpg?v=1664510208)
+*Promotional image for a networking event in Indianapolis.*
+
+![Free Networking Event](https://indyhub.org/wp-content/uploads/banner-41.jpg)
+*Graphic announcing a free networking event in downtown Indianapolis.*
+
+![Casual Networking](https://kicksdigitalmarketing.com/wp-content/uploads/2017/08/indy-networking-events.jpg)
+*A diverse group engaged in conversation at a networking event.*
 
 ## Additional Resources
 
-* **[Career Services at Your College](#)**: Most colleges have dedicated career services that can help students with job searches, resume writing, and interview preparation.
-* **[Local Networking Events](#)**: Check local chambers of commerce or industry groups for networking events that can connect students with potential employers.
-* **[Professional Associations](#)**: Joining a professional association related to your field can provide networking opportunities and access to job boards.
+* **[Career Services at Your College](#)**: Most colleges offer career services for job searches, resume writing, and interview prep.
+* **[Local Networking Events](#)**: Check local chambers of commerce or industry groups for networking opportunities.
+* **[Professional Associations](#)**: Joining associations related to your field can provide networking and job board access.
+* **[Internship Programs](#)**: Look for internship programs offered by local companies or through your college.
+* **[Mentorship Programs](#)**: Seek out mentorship opportunities that can provide guidance and connections in your field.
 
 ## Jobs Potentially Impacted by AI
 
-**Note:** This is not an exhaustive list, and the impact of AI on jobs is constantly evolving.  However, it's wise to research and consider these areas carefully.
+**Note:** This is not an exhaustive list, and the impact of AI on jobs is constantly evolving. However, it's wise to research and consider these areas carefully.
 
 * **Data Entry Clerks:** AI and automation are increasingly capable of handling large-scale data entry.
-* **Truck Drivers:**  Autonomous trucking is a rapidly developing field.
-* **Factory Workers:**  Robotics and automation are already common in manufacturing, and this trend is likely to continue.
-* **Customer Service Representatives:**  Chatbots and AI-powered customer support systems are becoming more sophisticated.
+* **Truck Drivers:** Autonomous trucking is a rapidly developing field.
+* **Factory Workers:** Robotics and automation are already common in manufacturing, and this trend is likely to continue.
+* **Customer Service Representatives:** Chatbots and AI-powered customer support systems are becoming more sophisticated.
 
 ## Contributing
 
