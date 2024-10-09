@@ -183,34 +183,25 @@ Here are several networking resources and events in Indianapolis that can help y
   - Date: October 20, 2024
   - Location: Living in the Moment Events
   - Details: A networking expo designed to connect local businesses and professionals.
+  - ![Indy Business Shower & Networking Expo](#) *(Placeholder for image)*
 
 - **DisruptHR Indy Fall 2024**
   - Date: October 24, 2024
   - Location: 1899 Events
   - Details: A fast-paced event where speakers share innovative ideas about the future of work.
+  - ![DisruptHR Indy Fall 2024](#) *(Placeholder for image)*
 
 - **Indianapolis Career Fair**
   - Date: October 17, 2024
   - Location: Holiday Inn Indianapolis/Carmel
   - Details: A career fair connecting job seekers with local employers.
+  - ![Indianapolis Career Fair](#) *(Placeholder for image)*
 
 ### Additional Networking Tips
 - **Join Local Meetup Groups**: Websites like Meetup.com often have groups focused on specific industries or interests.
 - **Utilize LinkedIn**: Connect with professionals in your field and join local groups to stay updated on events.
 - **Volunteer**: Engaging in community service can help you meet like-minded individuals and expand your network.
 - **Attend Workshops and Seminars**: Look for educational events that also provide networking opportunities.
-
-### Visuals from Networking Events
-Here are some images that represent networking events in Indianapolis:
-
-![Networking Event](https://cdn-az.allevents.in/events5/banners/6a77a917836ae3619e33b4f4804bc5b20731f0aae60ec735fc2c2868381a052d-rimg-w1200-h600-gmir.jpg?v=1664510208)
-*Promotional image for a networking event in Indianapolis.*
-
-![Free Networking Event](https://indyhub.org/wp-content/uploads/banner-41.jpg)
-*Graphic announcing a free networking event in downtown Indianapolis.*
-
-![Casual Networking](https://kicksdigitalmarketing.com/wp-content/uploads/2017/08/indy-networking-events.jpg)
-*A diverse group engaged in conversation at a networking event.*
 
 ## Additional Resources
 
@@ -249,14 +240,5 @@ We encourage contributions to keep this repository up-to-date and valuable. If y
 4. Submit a pull request to the main repository.
 
 ## License
-
-This list aims to provide comprehensive resources for job seekers in Indianapolis across various sectors.
-
-## License
-
-This list aims to provide comprehensive resources for job seekers in Indianapolis across various sectors.
-
-## License
-
 
 This list aims to provide comprehensive resources for job seekers in Indianapolis across various sectors.
