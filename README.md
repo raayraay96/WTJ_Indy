@@ -145,31 +145,60 @@ Whether you're a skilled developer, an aspiring healthcare professional, or expl
 
 Here are several networking resources and events in Indianapolis that can help you connect with professionals and expand your network. These links include various organizations, events, and platforms where you can meet people in your field and beyond.
 
-1. **[Howl at the Moon - Corporate Networking Events](https://www.howlatthemoon.com/indianapolis-networking-events/)**: A fun venue for networking events where you can meet top professionals in a lively atmosphere.
+1. **IndyHub**: The largest network of young professionals in Indianapolis, offering various programs from volunteer fairs to book clubs. They focus on empowering local talent and connecting them with opportunities.
 
-2. **[TechPoint - Tech Events](https://techpoint.org/tech-events/)**: This site lists various tech-related networking events, including upcoming meetups and conferences in the Indianapolis area.
+2. **Rainmakers**: A national business development organization that originated in Indianapolis, Rainmakers hosts numerous business-focused events aimed at B2B professionals. They provide educational resources and consulting services to help members grow their businesses.
 
-3. **[All Events - Business & Networking Events](https://allevents.in/indianapolis/business)**: A comprehensive list of business venues and networking events happening in Indianapolis.
+3. **Women & Hi Tech**: This organization supports women in STEM fields through networking events, educational programs, and mentorship. Their upcoming Spring Networking Event at the Indianapolis Motor Speedway is designed to inspire and connect professionals in technology.
 
-4. **[Indy Marketers - Events](https://www.indymarketers.com/events)**: Focused on marketing professionals, this site lists events that include networking opportunities and discussions on industry trends.
+4. **Indiana Small Business Expo**: This annual event serves as a hub for small business networking across Indiana. It offers monthly networking opportunities leading up to a major tradeshow conference.
 
-5. **[H7 Network - Indianapolis](https://www.h7network.com/visit/indianapolis)**: A networking group that hosts in-person meetings and events to help professionals connect and grow their businesses.
+5. **Indy Chamber**: The Indy Chamber organizes over 100 events annually, providing various networking opportunities for businesses and professionals. They focus on fostering meaningful connections within the local business community.
 
-6. **[Circle City Connect](https://www.indyfluence.com/blog/10-networking-opportunities-for-young-professionals-in-indianapolis/)**: A networking organization dedicated to personal and professional growth through social events and community service.
+6. **Indianapolis Professional Association (IPA)**: This organization aims to empower African American professionals through networking, educational initiatives, and community involvement. They host events that promote economic development and youth empowerment.
 
-7. **[NOWIB - Network of Women in Business](https://www.nowib.com/)**: This organization focuses on empowering women in business through networking events and professional development opportunities.
+7. **[Howl at the Moon - Corporate Networking Events](https://www.howlatthemoon.com/indianapolis-networking-events/)**: A fun venue for networking events where you can meet top professionals in a lively atmosphere.
 
-8. **[Indy Black Professionals](https://lifeinindy.com/professional-networks-and-connections/)**: A networking group that supports Black professionals in Indianapolis, offering events that promote collaboration and community engagement.
+8. **[TechPoint - Tech Events](https://techpoint.org/tech-events/)**: This site lists various tech-related networking events, including upcoming meetups and conferences in the Indianapolis area.
 
-9. **[Eventbrite - Networking Events in Indianapolis](https://www.eventbrite.com/d/in--indianapolis/networking-events/)**: A platform where you can find various networking events, workshops, and seminars happening in the city.
+9. **[All Events - Business & Networking Events](https://allevents.in/indianapolis/business)**: A comprehensive list of business venues and networking events happening in Indianapolis.
 
-10. **[Prime Connects - Indianapolis Professional Networking Group](https://www.primeconnectsindy.com/)**: A group focused on creating valuable connections for entrepreneurs and professionals, with events that foster collaboration and community support.
+10. **[Indy Marketers - Events](https://www.indymarketers.com/events)**: Focused on marketing professionals, this site lists events that include networking opportunities and discussions on industry trends.
+
+11. **[H7 Network - Indianapolis](https://www.h7network.com/visit/indianapolis)**: A networking group that hosts in-person meetings and events to help professionals connect and grow their businesses.
+
+12. **[Circle City Connect](https://www.indyfluence.com/blog/10-networking-opportunities-for-young-professionals-in-indianapolis/)**: A networking organization dedicated to personal and professional growth through social events and community service.
+
+13. **[NOWIB - Network of Women in Business](https://www.nowib.com/)**: This organization focuses on empowering women in business through networking events and professional development opportunities.
+
+14. **[Indy Black Professionals](https://lifeinindy.com/professional-networks-and-connections/)**: A networking group that supports Black professionals in Indianapolis, offering events that promote collaboration and community engagement.
+
+15. **[Eventbrite - Networking Events in Indianapolis](https://www.eventbrite.com/d/in--indianapolis/networking-events/)**: A platform where you can find various networking events, workshops, and seminars happening in the city.
+
+16. **[Prime Connects - Indianapolis Professional Networking Group](https://www.primeconnectsindy.com/)**: A group focused on creating valuable connections for entrepreneurs and professionals, with events that foster collaboration and community support.
+
+### Upcoming Networking Events
+
+- **Indy Business Shower & Networking Expo**
+  - Date: October 20, 2024
+  - Location: Living in the Moment Events
+  - Details: A networking expo designed to connect local businesses and professionals.
+
+- **DisruptHR Indy Fall 2024**
+  - Date: October 24, 2024
+  - Location: 1899 Events
+  - Details: A fast-paced event where speakers share innovative ideas about the future of work.
+
+- **Indianapolis Career Fair**
+  - Date: October 17, 2024
+  - Location: Holiday Inn Indianapolis/Carmel
+  - Details: A career fair connecting job seekers with local employers.
 
 ### Additional Networking Tips
-- **Attend Local Meetups**: Websites like Meetup.com often have groups focused on specific industries or interests.
-- **Join Professional Associations**: Many fields have professional organizations that host networking events and provide resources for members.
-- **Utilize Social Media**: Platforms like LinkedIn are great for connecting with professionals in your area. Join local groups and participate in discussions.
+- **Join Local Meetup Groups**: Websites like Meetup.com often have groups focused on specific industries or interests.
+- **Utilize LinkedIn**: Connect with professionals in your field and join local groups to stay updated on events.
 - **Volunteer**: Engaging in community service can help you meet like-minded individuals and expand your network.
+- **Attend Workshops and Seminars**: Look for educational events that also provide networking opportunities.
 
 ### Visuals from Networking Events
 Here are some images that represent networking events in Indianapolis:
@@ -185,11 +214,21 @@ Here are some images that represent networking events in Indianapolis:
 
 ## Additional Resources
 
-* **[Career Services at Your College](#)**: Most colleges offer career services for job searches, resume writing, and interview prep.
-* **[Local Networking Events](#)**: Check local chambers of commerce or industry groups for networking opportunities.
-* **[Professional Associations](#)**: Joining associations related to your field can provide networking and job board access.
-* **[Internship Programs](#)**: Look for internship programs offered by local companies or through your college.
-* **[Mentorship Programs](#)**: Seek out mentorship opportunities that can provide guidance and connections in your field.
+1. **Indiana Department of Workforce Development (DWD)**: This state agency provides a comprehensive set of tools for job seekers, including career counseling, training programs, and job placement services. Their website offers resources tailored to various demographics, such as veterans and young adults.
+
+2. **Indiana Career Explorer**: This platform helps users explore careers based on their interests and skills. It connects individuals with educational opportunities and training programs that align with high-demand jobs in the state.
+
+3. **EmployIndy**: This organization focuses on workforce development in Marion County. They offer job training, career coaching, and connections to local employers. Their events often include job fairs and networking opportunities.
+
+4. **Next Level Jobs**: A state initiative providing free training for high-demand careers. This program targets industries like advanced manufacturing, health sciences, and IT, making it a valuable resource for job seekers looking to upskill.
+
+5. **Hoosiers by the Numbers**: This labor market information resource provides insights into job availability, salary comparisons, and regional employment trends. It can help job seekers understand the landscape before applying.
+
+* **Career Services at Your College**: Most colleges offer career services for job searches, resume writing, and interview prep.
+* **Local Networking Events**: Check local chambers of commerce or industry groups for networking opportunities.
+* **Professional Associations**: Joining associations related to your field can provide networking and job board access.
+* **Internship Programs**: Look for internship programs offered by local companies or through your college.
+* **Mentorship Programs**: Seek out mentorship opportunities that can provide guidance and connections in your field.
 
 ## Jobs Potentially Impacted by AI
 
@@ -208,6 +247,10 @@ We encourage contributions to keep this repository up-to-date and valuable. If y
 2. Create a new branch for your changes.
 3. Commit and push your changes to your forked repository.
 4. Submit a pull request to the main repository.
+
+## License
+
+This list aims to provide comprehensive resources for job seekers in Indianapolis across various sectors.
 
 ## License
 
