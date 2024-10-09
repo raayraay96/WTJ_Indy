@@ -168,6 +168,5 @@ We encourage contributions to keep this repository up-to-date and valuable. If y
 
 ## License
 
-[Specify the license you choose for this project]. 
 
 This list aims to provide comprehensive resources for job seekers in Indianapolis across various sectors.
